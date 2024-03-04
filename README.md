@@ -188,6 +188,10 @@
 | --- | --- |
 | [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
 
+### 隐私政策生成
+- [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)
+- [GOOGLE PLAY上架APP设置隐私政策声明问题](https://zhuanlan.zhihu.com/p/372435677)
+
 ## 信息渠道
 
 | 平台 | 备注 |
