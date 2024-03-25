@@ -85,6 +85,10 @@
 | [Lucia](https://github.com/lucia-auth/lucia) |  登录鉴权 |
 | [Next-Auth v4](https://next-auth.js.org/) | |
 | [Next-Auth v5](https://authjs.dev/getting-started/introduction) | v5 配置和 v4 不同，请注意区分<br> [v5 Demo](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) |
+| [keycloak](https://github.com/keycloak/keycloak)|by java|
+| [justauth](https://github.com/justauth/justauth)|by java 国产|
+| [casdoor](https://github.com/casdoor/casdoor)| by golang|
+| [kratos](https://github.com/ory/kratos) & [hydra](https://github.com/ory/hydra)| by golang|
 
 ### 支付
 
