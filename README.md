@@ -90,6 +90,7 @@
 | [justauth](https://github.com/justauth/justauth)|by java 国产|
 | [casdoor](https://github.com/casdoor/casdoor)| by golang|
 | [kratos](https://github.com/ory/kratos) & [hydra](https://github.com/ory/hydra)| by golang|
+| [authlib](https://github.com/lepture/authlib) | by python |
 
 ### 支付
 
